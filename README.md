@@ -13,7 +13,9 @@ This is a Machine Learning project to predict housing prices in Bengaluru based 
 ##  Files and Folders
 
 1.Bengaluru_House_Data.csv - This dataset contains information such number of beddrooms,bathrooms,location of the properties and their prices
-2.This model helps in prediction of data based on various parameters.
+
+
+2.BengaluruPrediction.ipynb-This contains the EDA and the model deployment
 
 ## Project Workflow
 1️.  Data Collection
